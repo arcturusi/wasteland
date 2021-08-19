@@ -4,4 +4,9 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+I was neither
+Living nor dead, and I knew nothing,
+Looking into the heart of light, the silence.
+Oed’ und leer das Meer.
+           The Waste Land
+           BY T. S. ELIOT
